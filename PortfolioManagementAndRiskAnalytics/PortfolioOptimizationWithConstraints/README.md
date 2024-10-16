@@ -1,6 +1,6 @@
 # Porfolio Optimization using Modern Portfolio Theory with Real World Constraints
 
-The main goal of this project is to develop a portfolio opmization model using modern portfolio theory (MPT) whilst incorporating real-world constraints such as minimum allocations, maximumallocations and liquidity constraints. 
+The main goal of this project is to develop a portfolio opmization model using modern portfolio theory (MPT) whilst incorporating real-world constraints such as minimum allocations, maximum allocations and liquidity constraints. 
 
 It aims to provide a practical solution that balances risk and return while adhering to practical constraints faced by portfolio managers. 
 
