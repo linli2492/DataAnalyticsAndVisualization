@@ -6,7 +6,7 @@ This repository holds all the work I have done over the years that I have used i
 They are currently binned into different categories: 
 
 1. [**Quantitative Analysis and Visualisation.**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization)
-2. **Portfolio Management & Risk Analysis**.
+2. [**Portfolio Management & Risk Analysis**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/PortfolioManagementAndRiskAnalytics)
 3. **Software Development**.
 
 Each category has their own variety of projects with their own documentation and involve some combination of the use of:
