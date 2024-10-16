@@ -4,7 +4,7 @@
 This repository holds all the work I have done over the years that I have used in my own trading & investing operations or have built for my employers that are non proprietary. 
 
 They are currently binned into different categories: 
-1. Quantitative Analysis and Visualisation.
+1. [Quantitative Analysis and Visualisation.](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization)
 3. Portfolio Management & Risk Analysis.
 4. Software Development.
 
