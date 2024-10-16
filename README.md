@@ -5,8 +5,12 @@ This repository holds all the work I have done over the years that I have used i
 
 They are currently binned into different categories: 
 1. [Quantitative Analysis and Visualisation.](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization)
-3. Portfolio Management & Risk Analysis.
-4. Software Development.
+2. Portfolio Management & Risk Analysis.
+3. Software Development.
+
+I have also built my own trading algorithms using Ninjascript (C# based language) and MQL4/5 (C++ based language) for traders using NinjaTrader and MetaTrader 4/5. You can find then here: 
+1. NinjaTrader Trading Algorithms (Futures)
+2. MetaTrader 4/5 Expert Advisors (Forex) 
 
 Each category has their own variety of projects with their own documentation and will involve some combination of the use of **Python, C#, C++, PowerBI and/or Tableau.**
 
