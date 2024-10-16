@@ -9,11 +9,15 @@ They are currently binned into different categories:
 2. **Portfolio Management & Risk Analysis**.
 3. **Software Development**.
 
-Each category has their own variety of projects with their own documentation and involve some combination of the use of **Python, C#, C++, PowerBI and/or Tableau.**
+Each category has their own variety of projects with their own documentation and involve some combination of the use of:
+- ***Python***
+- ***C#***
+- ***C++***
+- ***PowerBI and/or Tableau.***
 
 For those of you that are currently involved in proprietary trading: 
 
-I have also built my own trading algorithms using Ninjascript (C# based language) and MQL4/5 (C++ based language) for traders using NinjaTrader and MetaTrader 4/5. You can find then here: 
+I have also built my own trading algorithms using **Ninjascript (C# based language)** and **MQL4/5 (C++ based language)** for traders using NinjaTrader and MetaTrader 4/5. You can find then here: 
 
 1. **NinjaTrader Trading Algorithms (Futures)**
 2. **MetaTrader 4/5 Expert Advisors (Forex)** 
