@@ -7,7 +7,7 @@ They are currently binned into different categories:
 
 1. [**Quantitative Analysis and Visualisation.**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization)
 2. [**Portfolio Management & Risk Analysis**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/PortfolioManagementAndRiskAnalytics)
-3. **Software Development**.
+3. [**Software Development**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/SoftwareDevelopment)
 
 Each category has their own variety of projects with their own documentation and involve some combination of the use of:
 - ***Python***
