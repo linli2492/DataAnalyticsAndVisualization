@@ -5,6 +5,7 @@ The main goal of this project is to develop a portfolio opmization model using m
 It aims to provide a practical solution that balances risk and return while adhering to practical constraints faced by portfolio managers. 
 
 **Python** will be used for data processing and initial prototyping of an Efficient Frontier. 
+
 **C++** will be used for more computationally intensive parts of the optimization process, particularly custom constraint handling and performance improvements. 
 
 ## Relevance of Project
