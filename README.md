@@ -20,7 +20,7 @@ For those of you that are currently involved in proprietary trading:
 I have also built my own trading algorithms using **Ninjascript (C# based language)** and **MQL4/5 (C++ based language)** for traders using NinjaTrader and MetaTrader 4/5. You can find then here: 
 
 1. [**NinjaTrader Trading Algorithms (Futures)**](https://github.com/linli2492/ProjectsPortfolio/tree/main/NinjascriptTradingAlgorithms)
-2. **MetaTrader 4/5 Expert Advisors (Forex)** 
+2. [**MetaTrader 4/5 Expert Advisors (Forex)** ](https://github.com/linli2492/ProjectsPortfolio/tree/main/MQLExpertAdvisorTradingAlgorithms)
 
 
 
