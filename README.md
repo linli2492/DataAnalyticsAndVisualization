@@ -9,11 +9,11 @@ They are currently binned into different categories:
 2. [**Portfolio Management & Risk Analysis**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/PortfolioManagementAndRiskAnalytics)
 3. [**Software Development**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/SoftwareDevelopment)
 
-Each category has their own variety of projects with their own documentation and involve some combination of the use of:
-- ***Python***
-- ***C#***
-- ***C++***
-- ***PowerBI and/or Tableau.***
+Each category has their own variety of projects with their own documentation.
+
+A majority of the projects are built in ***Python***
+
+Projects that require higher performance, speed and low latency such as computationally expensive algorithms and software are built in ***C++*** or ***C#*** with ***PowerBi and/or Tableau*** for data visualization.
 
 For those of you that are currently involved in proprietary trading: 
 
