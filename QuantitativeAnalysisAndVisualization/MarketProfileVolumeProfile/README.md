@@ -7,6 +7,8 @@ By identifying areas of value and assessing the structural integrity of price le
 
 This project aims to identify those value areas through using Market Profile and Volume Profile distribution curves as well as calculating critical metrics such as **Point of Control (PoC)**, **Poor/Weak Highs and Lows** and **Value Area High (VAH)** and **Value Area Low (VAL).**
 
+![Volume Profile Graph](/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/VolumeProfile.png)
+
 ## Auction Market Theory Summarised
 
 **Market Profiles** and **Volume Profiles** provide a view of market activity and value by examining price distrubution over time and traded volume at each price level. 
