@@ -1,11 +1,17 @@
 # Ascertaining the Fair Value of an Asset Using Market Profile and Volume Profile Distribution Curves
 
 ## Project Overview
-In trading and investing, understanding the **value** of an asset can offer an edge over relying purely on price action or fundamental news. 
+In trading and investing, understanding the value of an asset can offer an edge over relying purely on price action or fundamental news. 
 
-By identifying areas of value and assessing the structural integrity of price levels, traders can discover opportunities where **price disconnects from fair value** and recognize potential breakout points. 
+This project aims to identify those areas of value by building a **Volume Profile** and **Market Profile** distribution curves.
 
-This project aims to identify those value areas through using Market Profile and Volume Profile distribution curves as well as calculating critical metrics such as **Point of Control (PoC)**, **Poor/Weak Highs and Lows** and **Value Area High (VAH)** and **Value Area Low (VAL).**
+By identifying areas of value and assessing the structural integrity of price levels, traders can discover opportunities where price disconnects from fair value and recognize potential breakout points. 
+
+## Volume Profile
+
+The below is a Volume Profile of GC 12-24 on on the 7th November 2024. 
+
+This profile was constructed by aggregating the total volume transacted at each price level through the trading day, creating a distribution that highlights the price levels where the most trading activity occured. 
 
 ![Volume Profile Graph](/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/VolumeProfile.png)
 ![Market Profile Graph](/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfile.png)
