@@ -27,7 +27,9 @@ The below is a Volume Profile of GC 12-24 (Gold Futures expiring on December 202
 
 This profile was constructed by aggregating the total volume transacted at each price level through the trading day, creating a distribution that highlights the price levels where the most trading activity occured. 
 
-![Volume Profile Graph](/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/VolumeProfile.png)
+<p align="center">
+  <img src="/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/VolumeProfile.png" alt="Volume Profile Graph">
+</p>
 
 From the above a trader can ascertain the following: 
 
@@ -37,9 +39,15 @@ From the above a trader can ascertain the following:
   
 - **Areas of Imbalance**: These zones with relatively low trading volume signify price levels where the market moved quickly through, often indicating ineffiencies or imbalances. When price re-enters these zones, they may offer potential opportunities to trade in the direction of the trend or for a reversal, depending on market context.
 
+<p align="center">
+  <img src="/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/Candlestick.png" alt="Candlestick Graph">
+</p>
+
 ## Market Profile
 
-![Market Profile Graph](/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfile.png)
+<p align="center">
+  <img src="/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfile.png" alt="Market Profile Graph">
+</p>
 
 
 
