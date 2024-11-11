@@ -6,18 +6,26 @@
 - [Market Profile](#market-profile)
 
 ## Project Overview
-In trading and investing, understanding the value of an asset can offer an edge over relying purely on price action or fundamental news. 
+Traders use Auction Market Theory seek trading opportunities by analyzing imbalances in supply and demand for an asset. 
 
-This project aims to identify those areas of value by building a **Volume Profile** and **Market Profile** distribution curves.
+This project leverages Market Profile and Volume Profile distributions to help traders identify areas of value and potential trading setups based on these imbalances. 
 
-**Market Profiles** and **Volume Profiles** provide a view of market activity and value by examining price distrubution over time and traded volume at each price level. 
+Typically, traders will: 
+- Fade 'unfair' prices when they sense insufficient conviction in the current value, expecting a reversion towards a fair value area. 
+- Trade in the direction of unfair prices when there is sufficient momentum, signaling a potential shift to a new value area.
 
-By aggregating price data and examining where trading activity is concentrated, these profiles offer insight into: 
-- **Fair Value**: Identify areas where an asset is likely perceived as fairly valued by the market
-- **Areas of Imbalance**: Spot price levels where trading activity is minimal, presenting long or short opportunities should price move into those areas.
-- **Market Sentiment**: Assess sentiment by identifying price levels that consistently attract or repel trading activity, reflecting market participants' confidence or lack thereof in those price levels. 
+A fundamental step in both strategies is locating these "value areas" for the asset being traded.
 
-A more detailed discussion on **Auction Market Theory** and **Market Structure** is offered at the end of this README.
+## Project Purpose
+
+This project builds a Market Profile and Volume Profile to pinoint areas of value and trading opportunities by aggregating price data and analyzing it's distrubution viewed in terms of volume and time
+
+A pre-requisite to any of the above strategies is to find the areas of value of the asset you are trading.  
+
+By analysing where price activity clusters, traders can gain insight into: 
+- **Fair Value**: Price levels where there is the least contention between buyers and sellers.
+- **Areas of Imbalance**: Low-activty zones that may present long or short opportunities if price re-enters these areas.
+- **Market Sentiment**: Levels taht consistently attract or repel trading activity, revealing partiticpant sentiment and confidence in those areas. 
 
 ## Volume Profile
 
