@@ -1,11 +1,23 @@
 # Ascertaining the Fair Value of an Asset Using Market Profile and Volume Profile Distribution Curves
 
+## Table of Content
+- [Project Overview](#project-overview)
+- [Volume Profile](#volume-profile)
+- [Market Profile](#market-profile)
+
 ## Project Overview
 In trading and investing, understanding the value of an asset can offer an edge over relying purely on price action or fundamental news. 
 
 This project aims to identify those areas of value by building a **Volume Profile** and **Market Profile** distribution curves.
 
-By identifying areas of value and assessing the structural integrity of price levels, traders can discover opportunities where price disconnects from fair value and recognize potential breakout points. 
+**Market Profiles** and **Volume Profiles** provide a view of market activity and value by examining price distrubution over time and traded volume at each price level. 
+
+By aggregating price data and examining where trading activity is concentrated, these profiles offer insight into: 
+- **Fair Value**: Identify areas where an asset is likely perceived as fairly valued by the market
+- **Areas of Imbalance**: Spot price levels where trading activity is minimal, presenting long or short opportunities should price move into those areas.
+- **Market Sentiment**: Assess sentiment by identifying price levels that consistently attract or repel trading activity, reflecting market participants' confidence or lack thereof in those price levels. 
+
+A more detailed discussion on **Auction Market Theory** and **Market Structure** is offered at the end of this README.
 
 ## Volume Profile
 
@@ -14,17 +26,16 @@ The below is a Volume Profile of GC 12-24 on on the 7th November 2024.
 This profile was constructed by aggregating the total volume transacted at each price level through the trading day, creating a distribution that highlights the price levels where the most trading activity occured. 
 
 ![Volume Profile Graph](/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/VolumeProfile.png)
+
+Volume profiles aim to highlight areas of high and low volume, helping traders identify areas of balance and imbalance. 
+
+## Market Profile
+
 ![Market Profile Graph](/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfile.png)
 
 
 
 ## Auction Market Theory Summarised
 
-**Market Profiles** and **Volume Profiles** provide a view of market activity and value by examining price distrubution over time and traded volume at each price level. 
-
-By aggregating price data and examining where trading activity is concentrated, these profiles offer insight into: 
-- **Fair Value**: Identify areas where an asset is likely perceived as fairly valued by the market
-- **Areas of Imbalance**: Spot price levels where trading activity is minimal, presenting long or short opportunities should price move into those areas.
-- **Market Sentiment**: Assess sentiment by identifying price levels that consistently attract or repel trading activity, reflecting market participants' confidence or lack thereof in those price levels. 
 
 For a more in depth discussion on Auction Market Theory, please refer to the AuctionMarketTheory.md file as this is beyond the scope of this README. 
