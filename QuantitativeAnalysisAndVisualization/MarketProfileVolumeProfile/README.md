@@ -47,7 +47,7 @@ From the above a trader can ascertain the following:
 
 Market Profile distributions divide trading sessions into 30-minute intervals and typically use letters to represent each period. 
 
-[**This is an example of a typical Market Profile distribution**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileLetters.png)
+[**This is an example of a typical Market Profile distribution**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPO.png)
 
 ProjectsPortfolio/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images
 /MarketProfileLetters.png
