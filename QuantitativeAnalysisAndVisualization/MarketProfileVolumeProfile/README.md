@@ -12,7 +12,7 @@ Typically, traders will:
 - Fade 'unfair' prices when they sense insufficient conviction in the current value, expecting a reversion towards a fair value area. 
 - Trade in the direction of unfair prices when there is sufficient momentum, signaling a potential shift to a new value area.
 
-This project builds a **Market Profile** and **Volume Profile** to pinpoint areas of value and trading opportunities by aggregating price data and analyzing it's distrubution viewed in terms of volume and time.
+This project builds a **Market Profile** and **Volume Profile** to pinpoint areas of value and trading opportunities by aggregating an asset's price data and analyzing it's distrubution viewed in terms of volume and time.
 
 By analysing where price activity clusters, traders can gain insight into: 
 - **Fair Value**: Typically at price levels that has seen the most volume and the most time spent. 
@@ -35,7 +35,7 @@ From the above a trader can ascertain the following:
 
 - **Fair Value**: This is typically represented by the high-volume nodes in the distribution where the price spent the most time and attracted the most volume. Fair value zones identified on the 7th November are between 2660-2674 and 2694-2708.
     
-- **Trending Day**: A trending day is often identified by a *bimodal* or even *multimodal* distribution. In such cases, two or more peaks in trading volume and suggest distinct areas of value, often marketing shifts in perception during the session. Though the Volume Profile cannot give us the direction of the trend, looking at a candlestick chart can. GC 12-24 on the 7th November trended upwards *see below*.
+- **Trending Day**: A trending day is often identified by a *bimodal* or even *multimodal* distribution. In such cases, two or more peaks in trading volume suggest distinct areas of value, often marking shifts in perception during the session. Though the Volume Profile alone cannot give us the direction of the trend, looking at a candlestick chart can. GC 12-24 on the 7th November trended upwards (*see below*).
   
 - **Areas of Imbalance**: These zones with relatively low trading volume signify price levels where the market moved quickly through, often indicating ineffiencies or imbalances. When price re-enters these zones, they may offer potential opportunities to trade in the direction of the trend or for a reversal, depending on market context.
 
