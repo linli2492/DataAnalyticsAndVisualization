@@ -77,7 +77,8 @@ From the above information traders can deduce the following and implement the fo
   - Gold had rebounded from Wednesday's sell-off following Donald Trump's definitive victory over Kamala Harris. Gold had seen extended bets from traders in the run-up to the election. Therefore, Trump's victory was likely to be the catalyst for investors to unwind safe-haven Gold positions.
 - Single prints were observed at the Highs and Lows of the day providing it a Strong High and Low.
 - No significant economic releases scheduled for November 8th that would significantly impact Gold.
-- Traders can implement a Mean-Reverting strategy/algorithm that:
-  - **Places a Long trade** should price move below 2696 absent of any fundamental news releases and indicators such as the RSI indicate overselling and ADX indicate a lack of momentum in price action.
-  - **Places a Short trade** should price move above 2708 absent of any fundamental news releases and indicators such as the RSI indicate overbuying and ADX indicate a lack of momentum in price action.
+
+Traders can implement a Mean-Reverting strategy/algorithm that:
+- **Places a Long trade** should price move below 2696 absent of any fundamental news releases and indicators such as the RSI indicate overselling and ADX indicate a lack of momentum in price action.
+- **Places a Short trade** should price move above 2708 absent of any fundamental news releases and indicators such as the RSI indicate overbuying and ADX indicate a lack of momentum in price action.
 
