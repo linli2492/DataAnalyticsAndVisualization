@@ -106,15 +106,24 @@ cd ProjectsPortfolio/QuantitativeAnalysisAndVisualization/MarketProfileVolumePro
 The ```requirements.txt``` contains all the Python libraries needed for the project. To install then, run: 
 
 ```powershell
-pip insatll -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Set up PostgreSQL Database
 
-Set up PostgreSQL on your system, once you have step it up, create a new database for this project:
+1. **Install PostgreSQL**
+- Follow the PostgreSQL installation guide to set up PostgreSQL on your system.
+
+2. **Create Database and Run SQL Setup Files:**
+- Open PostgreSQL and create a new datbase:
 ```sql
 CREATE DATABASE database_name
 ```
+- Run the provided ```schema.sql``` file to set up the required schema. ```schema.sql``` will set up the database schema with any necessary configurations.
+```powershell
+./psql -U username -d database_name -f path_to_file/schema.sql
+```
+
 
 
 
