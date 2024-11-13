@@ -45,12 +45,15 @@ From the above a trader can ascertain the following:
 
 ## Market Profile
 
-Market Profile distributions divide trading sessions into 30-minute intervals and typically use letters to represent each period. 
+Whilst Volume Profile distributions aggregates price data by volume, Market Profile distributions segments a trading session into time-based intervals, typically 30 minutes each, represented by letters. 
 
-[**This is an example of a typical Market Profile distribution**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPO.png)
+This method helps visualize price levels that see the most trading activity across different time periods, enabling traders to assess the relative value of various price zones. 
 
-ProjectsPortfolio/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images
-/MarketProfileLetters.png
+[**The Market Profile for GC 12-24 (Gold Futures expiring December 2024) on November 11 shows the distribution across the full trading day, starting from 00:00**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPO.png)
+
+Each coloured box with a letter represents a 30 minute interval of data, starting at ['A']. So ['A'] in the example above, represents all the prices hit between 00:00 to 00:30 (in this case, 2668.4 to 2671.4) and ['B'] being 00:30 to 01:00 etc etc. IMPROVE UPON THIS AND MAKE IT CLEAR
+
+
 
 <p align="center">
   <img src="/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfile.png" alt="Market Profile Graph">
