@@ -43,15 +43,25 @@ From the above a trader can ascertain the following:
   <img src="/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/Candlestick.png" alt="Candlestick Graph">
 </p>
 
+Though Volume Profile offers insights into trading activity, alone, it lacks context on market sentiment and participant behavior. 
+
+Volume data alone does not reveal how long prices remained in a particular area or the sequence of price movements, which are crucial for understanding whether the market is accepting or rejecting certain price levels. 
+
+
 ## Market Profile
 
 Whilst Volume Profile distributions aggregates price data by volume, Market Profile distributions segments a trading session into time-based intervals, typically 30 minutes each, represented by letters. 
 
-This method helps visualize price levels that see the most trading activity across different time periods, enabling traders to assess the relative value of various price zones. 
+A Market Profile enables traders to visualize not only price levels with the highest activity, but also how price moves over time within a session. 
+
+Through a Market Profile, traders can infer whether participants are accepting or rejecting prices, highlighting key levels that may represent support, resistance or potential for reversion.
 
 [**The Market Profile for GC 12-24 (Gold Futures expiring December 2024) on November 11 shows the distribution across the full trading day, starting from 00:00**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPO.png)
 
-Each coloured box with a letter represents a 30 minute interval of data, starting at ['A']. So ['A'] in the example above, represents all the prices hit between 00:00 to 00:30 (in this case, 2668.4 to 2671.4) and ['B'] being 00:30 to 01:00 etc etc. IMPROVE UPON THIS AND MAKE IT CLEAR
+Each coloured box with a letter represents a 30 minute interval of data, starting at ['A']. So ['A'] in the example above, represents all the prices hit between 00:00 to 00:30 (in this case, 2668.4 to 2671.4) and ['B'] being 00:30 to 01:00 etc etc. 
+
+A Market Profile provides structure to volume data by mapping where price spent the most time and can indicate the following: 
+- 
 
 
 
