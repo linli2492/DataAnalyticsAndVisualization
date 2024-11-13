@@ -7,6 +7,8 @@
 - [Volume Profile](#volume-profile)
 - [Market Profile](#market-profile)
 - [Summary of Findings on GC 12-24](#summary-of-findings-on-gc-12-24)
+- [Installation and Requirements](#installation-and-requirements)
+  - [Clone the Repository](#clone-the-repository)
 
 ## Project Overview
 Traders who use Auction Market Theory aim to identify the fair value of an asset and seek trading opportunities by analyzing imbalances in supply and demand dynamics.
@@ -85,3 +87,14 @@ Traders can implement a Mean-Reverting strategy/algorithm on November 8th that:
 - **Places a Long trade** should price move below 2696, absent of any fundamental news releases, and with indicators such as RSI indicating overselling and ADX indicating a lack of momentum in price action.
 - **Places a Short trade** should price move above 2708, absent of any fundamental news releases, and with indicators such as RSI indicating overbuying and ADX indicating a lack of momentum in price action.
 
+## Installation and Requirements
+
+This project is desgned to help analyze futures data using Market Profile and Volume Profile distribution curves, offerign insights into fair value and potential trading opportunities. 
+
+To set it up, you'll need Python, PostgreSQL and several libraries for data processing, visualization and database interaction. 
+
+### Clone the Respository
+Start by cloning the repository and navigating to the specific project folder:
+```powershell
+git clone https://github.com/linli2492/ProjectsPortfolio.git
+cd ProjectsPortfolio/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile
