@@ -1,6 +1,6 @@
 # Ascertaining the Fair Value of an Asset Using Market Profile and Volume Profile Distribution Curves
 
-**DISCLAIMER: FOR EDUCATION PURPOSES ONLY AND NOT TO BE TAKEN AS INVESTMENT ADVICE**
+**Disclaimer: This content is provided solely for educational purposes and should not be considered as financial or investment advice. The information presented is intended to enhance understanding of financial concepts and trading methodologies. Always consult with a qualified financial advisor before making any investment decisions.**
 
 ## Table of Content
 - [Project Overview](#project-overview)
