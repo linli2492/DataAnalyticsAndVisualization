@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Volume Profile](#volume-profile)
 - [Market Profile](#market-profile)
-- [Summary of Findings on GC 12-24](#summary-of-findings-on-gc-12--24)
+- [Summary of Findings on GC 12-24](#summary-of-findings-on-gc-12-24)
 
 ## Project Overview
 Traders who use Auction Market Theory aim to identify the fair value of an asset and seek trading opportunities by analyzing imbalances in supply and demand dynamics.
