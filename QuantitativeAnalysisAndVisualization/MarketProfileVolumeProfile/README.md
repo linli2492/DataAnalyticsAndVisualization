@@ -62,7 +62,7 @@ Each coloured box with a letter represents a 30 minute interval of data, startin
   - **Poor Highs/Lows**:Indicated by multiple prints at the extremes, showing that price lingered at these levels without making a decisive move. Poor highs or lows signal a lack of conviction from market participants, leaving these levels vulnerable to retests or breakouts. In the [**Market Profile for CL 11-24 (Light Crude Futures expiring November) on October 14th**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPOCL11-24.png), we can see an example of a Poor High where there are multiple prints at 74.83 and 74.82 REPHRASE IF NECESSARY, ALSO ADDING WHAT IT SUGGESTS
   - **Weak Highs/Lows**: Weak highs or lows can sometimes appear at technical levels (e.g., previous day’s high, a round number). They can exhibit single prints, but they are often driven by technical levels rather than by strong fundamental interest, making them susceptible to retests.
 
-A Market Profile can also be visualised using bar charts as per the below in order to **ADVANTAGE in that you can see all the information in just a box without endlessly scrolling REPHRASE THIS
+A Market Profile can also be visualized as a bar chart *as per the below*, providing a compact summary of trading activity. This format allows traders to quickly view key information without extensive scrolling, which is particularly helpful when the price range is broad and multiple price levels need to be represented efficiently
 <p align="center">
   <img src="/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfile.png" alt="Market Profile Graph">
 </p>
