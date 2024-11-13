@@ -98,3 +98,6 @@ Start by cloning the repository and navigating to the specific project folder:
 ```powershell
 git clone https://github.com/linli2492/ProjectsPortfolio.git
 cd ProjectsPortfolio/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile
+
+### Install Required Libraries
+The '''requirements.txt'''
