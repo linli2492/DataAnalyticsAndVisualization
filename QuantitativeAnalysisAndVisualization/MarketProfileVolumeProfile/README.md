@@ -77,7 +77,7 @@ When used together, Market and Volume Profiles provide a comprehensive view of m
 
 From the above information, traders can deduce the following: 
 - **Fair Value Shift**: Fair value shifted from 2660-2674 to 2696-2708, confirmed by both the Volume Profile and Market Profile distributions
-  - **Market Context** Gold rebounded following Wednesday’s sell-off after Donald Trump's definitive victory over Kamala Harris, triggering a liquidation of safe-haven positions. This political outcome was likely the catalyst for traders to unwind extended bets on gold.
+  - **Market Context**: Gold rebounded following Wednesday’s sell-off after Donald Trump's definitive victory over Kamala Harris, triggering a liquidation of safe-haven positions. This political outcome was likely the catalyst for traders to unwind extended bets on gold.
 - **Structural Levels**: Single prints observed at the Highs and Lows of the day indicate a Strong High and Strong Low.
 - No significant economic releases were scheduled for November 8th to impact gold.
 
