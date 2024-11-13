@@ -67,6 +67,7 @@ Market Profiles can be used in conjunction with Volume Profiles to derive a bett
 
 A unique feature of Market Profiles is that they are able to provide 'structural' insights into price levels, revealing whether the Highs and Lows of the day are robust or potentially vulnerable to breakouts based on participant acceptance or rejection. 
 - **Strong Highs/Lows** occur when prices make sharp reversals with limited trading activity at the extremes. This is often marked by single prints in the profile. From the [**Market Profile for GC 12-24 on November 11th**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPO.png), we can see Single Prints of ['C'] from 2650.3 to 2652.7 and ['AO'] from 2716.3 to 2718.2. These levels suggest a firm rejection of higher or lower prices by the marke, indicating a potential boundary where buyers and sellers stepped in forcefully.
+- **Poor Highs/Lows** are characterised by multiple prints at the extremes, indicating that the market lingered at those levels without making a decisive move away. Poor highs 
 
 
 
