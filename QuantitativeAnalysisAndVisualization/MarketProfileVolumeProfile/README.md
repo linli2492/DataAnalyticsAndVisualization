@@ -15,16 +15,16 @@ Typically, traders will:
 - **Fade "unfair" prices** when there is insufficient conviction at a given value, expecting reversion towards a fair value area.
 - **Trade in the direction of "unfair" prices** if there is sufficient momentum, indicating a potential shift to a new value area.
 
-This project builds a **Market Profile** and **Volume Profile** to pinpoint areas of fair value and highlight potential trading opportunities by aggregating an asset's price data and analyzing it's distrubution based on volume and time. 
+This project builds a **Market Profile** and **Volume Profile** to pinpoint areas of fair value and highlight potential trading opportunities by aggregating an asset's price data and analyzing its distribution based on volume and time. 
 
 By identifying where price activity clusters, traders can gain insight into: 
-- **Fair Value**: Prive levels that have seen the most volume and time, representing areas of market agreement.  
+- **Fair Value**: Price levels that have seen the most volume and time, indicating areas where the market agrees on price.  
 - **Areas of Imbalance**: Low-activity zones that may present long or short opportunities if price re-enters these areas. 
-- **Market Sentiment**: Levels that consistently attract or repel trading activity, revealing partiticpant confidence or hesitation. 
+- **Market Sentiment**: Levels that consistently attract or repel trading activity, revealing participant confidence or hesitation. 
 
 ## Volume Profile
 
-The Volume Profile highlights price levels where most trading volume occurred, helping to pinpoint fair value zones based on where market participants are most active.
+The Volume Profile highlights price levels with the highest trading volume, helping pinpoint fair value zones based on active trading levels
 
 The below is a Volume Profile of GC 12-24 (Gold Futures expiring on December 2024) on the 7th November 2024. 
 
@@ -46,7 +46,7 @@ From the above a trader can ascertain the following:
   <img src="/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/Candlestick.png" alt="Candlestick Graph">
 </p>
 
-**Limitations**: Volume Profile alone lacks context about market sentiment and participant behavior. Volume data alone does not reveal how long prices stayed in certain areas or the sequence of price movements, which are crucial to understanding whether the market accepts or rejects certain price levels.
+**Limitations**: Volume Profile alone lacks context about market sentiment and participant behavior. Volume data by itself does not reveal how long prices remained at certain levels or the order of price movements, both of which are crucial for understanding whether the market is accepting or rejecting specific price levels.
 
 ## Market Profile
 
@@ -59,10 +59,11 @@ Each coloured box with a letter represents a 30 minute interval of data, startin
 - **Enhanced Value Area Identification:** Market Profile can validate value areas identified in the Volume Profile by confirming whether the market spent significant time at these levels.
 - **Structural Integrity of Price Levels:** Market Profile offers structural insights that reveal the strength or weakness of highs and lows. For example:
   - **Strong Highs/Lows:** Represented by single prints, indicating sharp reversals with limited trading activity at the extremes. A strong high or low suggests a firm rejection by the market, often marking a boundary where buyers or sellers stepped in forcefully. In the [**Market Profile for GC 12-24 on November 11th**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPO.png), we see single prints from 'C' at 2650.3 to 2652.7 and from 'AO' at 2716.3 to 2718.2, indicating firm rejection of these price levels.
-  - **Poor Highs/Lows**:Indicated by multiple prints at the extremes, showing that price lingered at these levels without making a decisive move. Poor highs or lows signal a lack of conviction from market participants, leaving these levels vulnerable to retests or breakouts. In the [**Market Profile for CL 11-24 (Light Crude Futures expiring November) on October 14th**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPOCL11-24.png), we can see an example of a Poor High where there are multiple prints at 74.83 and 74.82 REPHRASE IF NECESSARY, ALSO ADDING WHAT IT SUGGESTS
-  - **Weak Highs/Lows**: Weak highs or lows can sometimes appear at technical levels (e.g., previous day’s high, a round number). They can exhibit single prints, but they are often driven by technical levels rather than by strong fundamental interest, making them susceptible to retests.
+  - **Poor Highs/Lows**: Indicated by multiple letters or trading intervals at the extreme highs or lows, showing that price lingered at these levels without making a decisive move. Poor highs or lows signal a lack of conviction from market participants, leaving these levels vulnerable to retests or potential breakouts. In the [**Market Profile for CL 11-24 (Light Crude Futures expiring November) on October 14th**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfileTPOCL11-24.png), the Poor High has multiple prints at 74.83 and 74.82, suggesting possible retests in the future.
+  - **Weak Highs/Lows**: Weak highs or lows are often triggered by technical levels, such as a previous day’s high, a round number, or a prior low. While they can exhibit single prints, these levels are frequently driven by technical triggers like stop orders rather than fundamental buying or selling interest, making them susceptible to retests.
 
-A Market Profile can also be visualized as a bar chart *as per the below*, providing a compact summary of trading activity. This format allows traders to quickly view key information without extensive scrolling, which is particularly helpful when the price range is broad and multiple price levels need to be represented efficiently
+A Market Profile can also be visualized as a bar chart, providing a compact summary of trading activity. This format allows traders to quickly view key information without extensive scrolling, which is particularly helpful when the price range is broad, and multiple price levels need to be represented efficiently. [*see below*]
+
 <p align="center">
   <img src="/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile/images/MarketProfile.png" alt="Market Profile Graph">
 </p>
@@ -70,17 +71,17 @@ A Market Profile can also be visualized as a bar chart *as per the below*, provi
 ## Summary of Findings on GC 12-24
 
 When used together, Market and Volume Profiles provide a comprehensive view of market activity:
-- **Volume Profile identifies key value areas**, but Market Profile adds depth by revealing the time component and the structural integrity of price levels.
-- **Market Profile can clarify whether high-volume nodes represent fair value** by showing whether the market spent significant time there.
-- **Areas of Imbalance**: Market Profile helps identify structural weak points like poor or weak highs/lows, which could offer reversal or breakout opportunities.
+- **Volume Profile identifies key value areas**, but lacks the time and structural insights provided by the Market Profile.
+- **Market Profile clarifies whether high-volume nodes represent fair value** by showing if the market spent significant time at those levels.
+- **Identifying Imbalance**: Market Profile reveals structural weak points like poor or weak highs/lows, which may indicate reversal or breakout potential.
 
-From the above information traders can deduce the following and implement the following trading strategy for 8th November, as an example: 
-- Fair value moved from c2660-2674 to 2696-2708 as confirmed by both Volume Profile and Market Profile distributions.
-  - Gold had rebounded from Wednesday's sell-off following Donald Trump's definitive victory over Kamala Harris. Gold had seen extended bets from traders in the run-up to the election. Therefore, Trump's victory was likely to be the catalyst for investors to unwind safe-haven Gold positions.
-- Single prints were observed at the Highs and Lows of the day providing it a Strong High and Low.
-- No significant economic releases scheduled for November 8th that would significantly impact Gold.
+From the above information, traders can deduce the following: 
+- **Fair Value Shift**: Fair value shifted from 2660-2674 to 2696-2708, confirmed by both the Volume Profile and Market Profile distributions
+  - **Market Context** Gold rebounded following Wednesday’s sell-off after Donald Trump's definitive victory over Kamala Harris, triggering a liquidation of safe-haven positions. This political outcome was likely the catalyst for traders to unwind extended bets on gold.
+- **Structural Levels**: Single prints observed at the Highs and Lows of the day indicate a Strong High and Strong Low.
+- No significant economic releases were scheduled for November 8th to impact gold.
 
-Traders can implement a Mean-Reverting strategy/algorithm that:
-- **Places a Long trade** should price move below 2696 absent of any fundamental news releases and indicators such as the RSI indicate overselling and ADX indicate a lack of momentum in price action.
-- **Places a Short trade** should price move above 2708 absent of any fundamental news releases and indicators such as the RSI indicate overbuying and ADX indicate a lack of momentum in price action.
+Traders can implement a Mean-Reverting strategy/algorithm on November 8th that:
+- **Places a Long trade** should price move below 2696, absent of any fundamental news releases, and with indicators such as RSI indicating overselling and ADX indicating a lack of momentum in price action.
+- **Places a Short trade** should price move above 2708, absent of any fundamental news releases, and with indicators such as RSI indicating overbuying and ADX indicating a lack of momentum in price action.
 
