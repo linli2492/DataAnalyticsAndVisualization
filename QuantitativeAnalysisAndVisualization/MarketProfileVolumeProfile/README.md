@@ -124,6 +124,10 @@ CREATE DATABASE database_name
 ./psql -U username -d database_name -f path_to_file/schema.sql
 ```
 
+3. **Database Configuration**
+- Update the ```df_config``` dictionary within the ```db_config.py``` file with your PostgreSQL credentials (```host```, ```database```, ```user```, ```password```).
+- Consider storing these credentials in an .env file using ```python-dotenv``` to load them. 
+
 
 
 
