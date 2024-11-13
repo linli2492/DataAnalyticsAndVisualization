@@ -98,6 +98,21 @@ Start by cloning the repository and navigating to the specific project folder:
 ```powershell
 git clone https://github.com/linli2492/ProjectsPortfolio.git
 cd ProjectsPortfolio/QuantitativeAnalysisAndVisualization/MarketProfileVolumeProfile
+```
 
 ### Install Required Libraries
-The '''requirements.txt'''
+The ```requirements.txt``` contains all the Python libraries needed for the project. To install then, run: 
+
+```powershell
+pip insatll -r requirements.txt
+```
+
+### Set up PostgreSQL Database
+
+Set up PostgreSQL on your system, once you have step it up, create a new database for this project:
+```sql
+CREATE DATABASE database_name
+```
+
+
+
