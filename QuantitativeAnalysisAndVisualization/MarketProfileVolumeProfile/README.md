@@ -1,5 +1,7 @@
 # Ascertaining the Fair Value of an Asset Using Market Profile and Volume Profile Distribution Curves
 
+**DISCLAIMER: FOR EDUCATION PURPOSES ONLY AND NOT TO BE TAKEN AS INVESTMENT ADVICE**
+
 ## Table of Content
 - [Project Overview](#project-overview)
 - [Volume Profile](#volume-profile)
