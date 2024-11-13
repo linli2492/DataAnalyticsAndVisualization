@@ -9,6 +9,8 @@
 - [Summary of Findings on GC 12-24](#summary-of-findings-on-gc-12-24)
 - [Installation and Requirements](#installation-and-requirements)
   - [Clone the Repository](#clone-the-repository)
+  - [Install Required Libraries](#install-required-libraries)
+  - [Set up PostgreSQL Database](#set-up-postgresql-database)
 
 ## Project Overview
 Traders who use Auction Market Theory aim to identify the fair value of an asset and seek trading opportunities by analyzing imbalances in supply and demand dynamics.
