@@ -32,7 +32,7 @@ You'll find resources, ideas and tools here in my GitHub to **maximize the power
 For ease I have binned my projects into the following repositories: 
 
 [**Trading, Investing and Risk Management**](https://github.com/linli2492/ProjectsPortfolio/tree/main/TradingPortfolioRiskManagement) 
-- For traders and fund managers.
+- For traders, fund managers or anyone working on the buy-side.
 - Analysis is done on **Python**.
 - Database managementment is done via **PostgreSQL**.
 - Actual trading algorithms are built in **C#** or **C++**
