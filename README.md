@@ -3,6 +3,7 @@
 **CONTENTS**
 - [Introduction](#welcome-to-my-github-blog)
 - [Repository of Projects](#repository-of-projects)
+- [Disclaimer](#disclaimer)
 
 ## Welcome to my GitHub Blog
 
@@ -43,3 +44,9 @@ For ease, I have binned my projects into the following repositories:
 - Analysis is done in **Python**.
 - Database management is done via **PostgreSQL**.
 - Where necessary, **PowerBI** will be used for visualisation.
+
+## DISCLAIMER
+
+The content shared here is for educational purposes only and is not intended as financial advice. Any strategies, tools, or insights presented are solely for informational purposes to inspire analysis and learning.
+
+Please conduct your own research or consult with a licensed financial professional before making any financial or investment decisions. I am not responsible for any actions taken based on the content shared here.
