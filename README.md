@@ -35,8 +35,8 @@ For ease, I have binned my projects into the following repositories:
 - For traders, fund managers or anyone working on the buy-side.
 - Analysis is done in **Python**.
 - Database management is done via **PostgreSQL**.
-- Actual trading algorithms are built in **C#** or **C++**
-- Analytical/Optimisation algorithms that require higher performance, speed and low latency will also be built in **C++** for **C#**  
+- Actual trading algorithms are built in **C#** or **C++**.
+- Analytical/Optimisation algorithms that require higher performance, speed and low latency will also be built in **C++** for **C#**.  
 
 [**Business Intelligence and Data Analytics**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/BusinessIntelligenceAndDataAnalytics)
 - For businesses or consulting companies looking for ways to analyze data to drive meaningful decisions
