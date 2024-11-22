@@ -28,7 +28,7 @@ You'll find resources, ideas and tools here in my GitHub to maximize the power o
 
 ## Repository of Projects
 
-For easeL I have binned my projects into the following repositories: 
+For ease I have binned my projects into the following repositories: 
 
 
 1. [**Quantitative Analysis and Visualisation.**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization)
