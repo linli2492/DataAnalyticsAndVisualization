@@ -12,40 +12,39 @@ But it's true value lies in how we analyze, dissect and transform it into **acti
 
 **Hi, my name is Lin** and welcome to my GitHub!
 
-This blog is a space where I combine my background as an algorithmic trader and data analyst with a broader vision: helping not just traders and investors, but businesses of all kinds turn raw data into insights that matter.
+This space is where I combine my background as a algorithmic trader and data analytics with a broader vision: helping financial analysts and businesses turn raw data into actionable insights that matter.
 
 In November 2024, I secured funding from a proprietary trading firm after developing trading and analytical algorithms that identified high-probability setups with asymmetric risk profiles.
 
 What was my edge?
 
-**Analyzing, dissecting and transforming** financial data into clear strategies. 
+**Analyzing, dissecting and transforming** financial data (mostly price data - it is incredible what you can derive from OHLCV data!) into clear, actionable strategies. 
 
 This blog extends that approach beyond trading. Whether you're:
+- A financial analysts seeking inspiration on how you can analyze financial data to build trading/investing strategies and manage risk.  
 - A business sitting on untapped data, looking to uncover insights that drive decision-making.
-- A hedge fund/asset manager/aspring trader seeking inspiration for analyzing price data to build strategies and manage risk.
+- A consulting firm looking for ideas on deriving insights from your clients' raw data. 
 
-You'll find resources, ideas and tools here in my GitHub to maximize the power of your data!
+You'll find resources, ideas and tools here in my GitHub to **maximize the power of your data!**
 
 ## Repository of Projects
 
 For ease I have binned my projects into the following repositories: 
 
+[**Trading, Investing and Risk Management**](https://github.com/linli2492/ProjectsPortfolio/tree/main/TradingPortfolioRiskManagement) 
+- For traders and fund managers.
+- Analysis is done on **Python**
+- Database managementment is done via **PostgreSQL**
+- Actual trading algorithms are built in **C#** or **C++**
+- Analytical/Optimisation algorithms that require higher performance, speed and low latency will also be built in **C++** for **C#**  
 
-1. [**Quantitative Analysis and Visualisation.**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization)
-2. [**Portfolio Management & Risk Analysis**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/PortfolioManagementAndRiskAnalytics)
-3. [**Software Development**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/SoftwareDevelopment)
+[**Business Intelligence and Data Analytics**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/BusinessIntelligenceAndDataAnalytics)
+- For businesses or consulting companies looking for ways to analyze data to drive meaningful decisions
+- Analysis is done on **Python**
+- Database management is done via **PostgreSQL**
+- Where necessary, **PowerBI** will be used for visualisation
 
-Each category has their own variety of projects with their own documentation.
-
-A majority of the projects are built in ***Python***
-
-Projects that require higher performance, speed and low latency such as computationally expensive algorithms and software are built in ***C++*** or ***C#*** with ***PowerBi and/or Tableau*** for data visualization.
-
-For those of you that are currently involved in proprietary trading: 
-
-I have also built my own trading algorithms using **Ninjascript (C# based language)** and **MQL4/5 (C++ based language)** for traders using NinjaTrader and MetaTrader 4/5. You can find then here: 
-
-
+**LET DATA WORK FOR YOU**
 
 ## Background
 
