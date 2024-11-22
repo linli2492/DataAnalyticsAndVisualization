@@ -1,9 +1,35 @@
-# Lin Li - Projects Portfolio
+# Lin Li's Portfolio
 
-## Index
-This repository holds all the work I have done over the years that I have used in my own trading & investing operations or have built for my employers that are non proprietary. 
+**CONTENTS**
+- [Introduction](#welcome-to-my-github-blog)
+- [Repository of Projects](#repository-of-projects)
 
-They are currently binned into different categories: 
+## Welcome to my GitHub Blog
+
+Data is **everywhere** - often publically available and increasingly easy to collect. 
+
+But it's true value lies in how we analyze, dissect and transform it into **actionable insights** that drive smarter decisions 
+
+**Hi, my name is Lin** and welcome to my GitHub!
+
+This blog is a space where I combine my background as an algorithmic trader and data analyst with a broader vision: helping not just traders and investors, but businesses of all kinds turn raw data into insights that matter.
+
+In November 2024, I secured funding from a proprietary trading firm after developing trading and analytical algorithms that identified high-probability setups with asymmetric risk profiles.
+
+What was my edge?
+
+**Analyzing, dissecting and transforming** financial data into clear strategies. 
+
+This blog extends that approach beyond trading. Whether you're:
+- A business sitting on untapped data, looking to uncover insights that drive decision-making.
+- A hedge fund/asset manager/aspring trader seeking inspiration for analyzing price data to build strategies and manage risk.
+
+You'll find resources, ideas and tools here in my GitHub to maximize the power of your data!
+
+## Repository of Projects
+
+For easeL I have binned my projects into the following repositories: 
+
 
 1. [**Quantitative Analysis and Visualisation.**](https://github.com/linli2492/ProjectsPortfolio/tree/main/QuantitativeAnalysisAndVisualization)
 2. [**Portfolio Management & Risk Analysis**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/PortfolioManagementAndRiskAnalytics)
@@ -19,9 +45,6 @@ For those of you that are currently involved in proprietary trading:
 
 I have also built my own trading algorithms using **Ninjascript (C# based language)** and **MQL4/5 (C++ based language)** for traders using NinjaTrader and MetaTrader 4/5. You can find then here: 
 
-1. [**NinjaTrader Trading Algorithms (Futures)**](https://github.com/linli2492/ProjectsPortfolio/tree/main/NinjascriptTradingAlgorithms)
-2. [**MetaTrader 4/5 Expert Advisors (Forex)** ](https://github.com/linli2492/ProjectsPortfolio/tree/main/MQLExpertAdvisorTradingAlgorithms)
-
 
 
 ## Background
@@ -31,6 +54,3 @@ My areas of expertise lie at the intersection of **capital markets, data science
 I specialize in transforming vast and complex data sets into actionable insights that provide a real edge to firms and their clients.
 
 With a 6-year career in financial markets (with BlackRock, Franklin Templeton, and S&P Global among my former employers), my ability to work with data structures, coupled with a deep knowledge of capital markets, allows me to uncover patterns and insights that are often overlooked.
-
-Currently, I am applying these skills as a day trader, utilizing both fundamental and quantitative analysis to create trading algorithms that identify high-probability opportunities in the markets with an asymmetric risk-reward ratio.
-
