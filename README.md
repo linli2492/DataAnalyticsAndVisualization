@@ -1,11 +1,11 @@
 # Lin Li's Portfolio
 
 **CONTENTS**
-- [Introduction](#welcome-to-my-github-blog)
+- [Introduction](#introduction)
 - [Repository of Projects](#repository-of-projects)
 - [Disclaimer](#disclaimer)
 
-## Welcome to my GitHub Blog
+## Introduction
 
 Data is **everywhere**—often publicly available and increasingly easy to collect. 
 
