@@ -27,15 +27,37 @@ This repository serves as a quantitatively driven research framework, equipping 
 
 **Market Regime Detection**
 
-Applies the **Hurst Exponent** to assess recent market behavior, distinguishing between mean-reverting and trending periods to guide traders to use the appropriate strategies. 
+- **Objective**: Identify whether the asset was trending or mean-reverting the previous day.
+- **Methodology**:
+  - Uses the Hurst Exponent to classify price behaviour.
+  - Values between 0.49 and 0.51 are classified as Random Walks.
+  - Hursts > 0.51 indicate trending markets, Hurst < 0.49 indicate mean-reverting markets.
+- **Application**:
+This helps traders align their strategies with market conditions:
+  - **Trending Markets** -> Favour breakout and momentum-based strategies.
+  - **Mean-Reverting Markets** -> Favour range-bound trading and fading extremes.
+  - 
+**Sample Output**:
+*Market Regime count and time series plot of Crude Oil, as of 03/02/2025*
 
 ![Market Regime Sample](Images/HurstExponentSample.png)
 
 **Market Profile & Volume Profit Insights**
 
-Analyzes key **price levels, Points of Control (PoC) and Value Areas** to determine what the market perceived as *fair value* in prior trading sessions. 
+- **Objective**: Analyze how price interacted with volume and liquidity to determine key market levels.
+- **Methodology**:
+  - Market Profile: Segments price action into price buckets to analyze how frequently each price level was traded.
+    - Point of Control (PoC) - price level which saw the highest frequency of trading activity.
+    - Value Area - the price range where 70% of trading activity occured, providing insight into what the market perceived as "fair value".
+  - Volume Profile: Analyses how much volume was traded at each price level to determine liquidity zones.
+    - Point of Control (PoC) - the price level with the highest traded volume
+    - Value Area - the price range containing 70% of total traded volume.
+  - **Application**
+    - Market Profile helps speculators understand price acceptance and rejection zones.
+    - Volume Profile highlights key liquidity areas where large institutional players might be active.  
 
-Through these quantitative methods, the porject delivers **actionable insights** into any tradeable instrument that supports speculators in making **data-backed decisions** that align with current market dynamics. 
+**Sample Output**:
+*Market Profile for Crude Oil as of 03/02/2025*
 
 ![Market Profile Sample](Images/MarketProfileSample.png)
 
