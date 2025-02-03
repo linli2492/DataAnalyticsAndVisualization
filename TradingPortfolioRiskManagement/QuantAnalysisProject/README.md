@@ -6,7 +6,7 @@ This project offers a comprehensive quantitative analysis of crude oil, leveragi
 
 Presents 1-month, 3 month,  month and 12 month distribution curves of daily volatility, providing context for how the latest price action aligns with historical patterms. 
 
-![Daily Volatility Example](images/DailyVolSample.png)
+![Daily Volatility Sample](Images/DailyVolSample.png)
 
 **Market Regime Detection**
 
