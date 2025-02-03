@@ -12,6 +12,8 @@ Presents 1-month, 3 month,  month and 12 month distribution curves of daily vola
 
 Applies the **Hurst Exponent** to assess recent market behavior, distinguishing between mean-reverting and trending periods to guide traders to use the appropriate strategies. 
 
+![Market Regime Sample](Images/HurstExponentSample.png)
+
 **Market Profile & Volume Profit Insights**
 
 Analyzes key **price levels, Points of Control (PoC) and Value Areas** to determine what the market perceived as *fair value* in prior trading sessions. 
