@@ -6,6 +6,8 @@ This project offers a comprehensive quantitative analysis of crude oil, leveragi
 
 Presents 1-month, 3 month,  month and 12 month distribution curves of daily volatility, providing context for how the latest price action aligns with historical patterms. 
 
+![Daily Volatility Example](images/DailyVolSample.png)
+
 **Market Regime Detection**
 
 Applies the **Hurst Exponent** to assess recent market behavior, distinguishing between mean-reverting and trending periods to guide traders to use the appropriate strategies. 
