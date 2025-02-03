@@ -19,3 +19,7 @@ Applies the **Hurst Exponent** to assess recent market behavior, distinguishing 
 Analyzes key **price levels, Points of Control (PoC) and Value Areas** to determine what the market perceived as *fair value* in prior trading sessions. 
 
 Through these quantitative methods, the porject delivers **actionable insights** into any tradeable instrument that supports speculators in making **data-backed decisions** that align with current market dynamics. 
+
+![Market Profile Sample](Images/MarketProfileSample.png)
+
+![Volume Profile Sample](Images/VolumeProfileSample.png)
