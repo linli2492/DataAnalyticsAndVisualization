@@ -25,7 +25,7 @@ This repository serves as a quantitatively driven research framework, equipping 
   - Compute daily high-low range distributions.
   - Uses Kernel Density Estimation (KDE) & histograms to visualize how the latest volatility compares to historical averages.
 - **Sample Output**:
-*Daily Volatility of Crude Oil as of 03/02/2025*
+*Daily Volatility of Crude Oil*
 
 ![Daily Volatility Sample](Images/DailyVolSample.png)
 
@@ -42,7 +42,7 @@ This helps traders align their strategies with market conditions:
   - **Mean-Reverting Markets** -> Favour range-bound trading and fading extremes.
   - 
 **Sample Output**:
-*Market Regime count and time series plot of Crude Oil, as of 03/02/2025*
+*Market Regime count and time series plot of Crude Oil*
 
 ![Market Regime Sample](Images/HurstExponentSample.png)
 
@@ -61,7 +61,7 @@ This helps traders align their strategies with market conditions:
     - Volume Profile highlights key liquidity areas where large institutional players might be active.  
 
 **Sample Output**:
-*Market Profile for Crude Oil as of 03/02/2025*
+*Market Profile for Crude Oil*
 
 ![Market Profile Sample](Images/MarketProfileSample.png)
 
