@@ -19,9 +19,7 @@ I specialise in the following:
 **Institutional Experience**
 I have worked at some of the largest financial institutions, including **BlackRock, Franklin Templeton and S&P Global**, where I have applied **quantitative research, financial analysis and algorithmic develoment** to drive impact at an institutional level.
 
-I have worked at some of the world's largest financial institutions, including **BlackRock, Franklin Templeton and S&P Global** where I have applied quantitative research, financial analytics and algorithmic development** to drive impact on an institutional level. 
-
-Though my expertise lies within Financial Services, the skills I have learnt to turning large, messy datasets into actionable insights to enable data driven decision making can be applied across industries
+Though my expertise lies within Financial Services, my skills can be applied across industries.
 
 Explore my projects: 
 
