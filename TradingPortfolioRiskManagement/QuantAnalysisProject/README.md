@@ -12,6 +12,8 @@ By leveraging statistical techniques and financial market models, this framework
 
 This repository serves as a quantitatively driven research framework, equipping traders with actionable insights for any instrument they wish to trade.
 
+Sample output for research on Crude Oil: https://nbviewer.org/github/linli2492/ProjectsPortfolio/blob/main/TradingPortfolioRiskManagement/QuantAnalysisProject/Speculators%20Daily%20Crude%20Oil%2004022025.ipynb
+
 ## Volatility Analysis
 
 - **Objective**: Compare the most recent trading session's volatility against historical distributions over 1-month, 3-month, 6-month, and 12-month timeframes.
