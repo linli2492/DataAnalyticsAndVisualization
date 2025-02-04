@@ -12,9 +12,7 @@ By leveraging statistical techniques and financial market models, this framework
 
 This repository serves as a quantitatively driven research framework, equipping traders with actionable insights for any instrument they wish to trade.
 
-## Key Components
-
-**Volatility Analysis**
+## Volatility Analysis
 
 - **Objective**: Compare the most recent trading session's volatility against historical distributions over 1-month, 3-month, 6-month, and 12-month timeframes.
 - **Methodology**:
@@ -25,7 +23,7 @@ This repository serves as a quantitatively driven research framework, equipping 
 
 ![Daily Volatility Sample](Images/DailyVolSample.png)
 
-**Market Regime Detection**
+## Market Regime Detection
 
 - **Objective**: Identify whether the asset was trending or mean-reverting the previous day.
 - **Methodology**:
@@ -42,7 +40,7 @@ This helps traders align their strategies with market conditions:
 
 ![Market Regime Sample](Images/HurstExponentSample.png)
 
-**Market Profile & Volume Profit Insights**
+## Market Profile & Volume Profit Insights
 
 - **Objective**: Analyze how price interacted with volume and liquidity to determine key market levels.
 - **Methodology**:
