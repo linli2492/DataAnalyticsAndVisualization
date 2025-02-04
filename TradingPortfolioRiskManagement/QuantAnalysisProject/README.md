@@ -27,7 +27,7 @@ This repository serves as a quantitatively driven research framework, equipping 
 - **Sample Output**:
 *Daily Volatility of Crude Oil*
 
-![Daily Volatility Sample](Images/DailyVolSample.png)
+![Daily Volatility Sample](Images/VolSample.png)
 
 ## Market Regime Detection
 
@@ -44,7 +44,7 @@ This helps traders align their strategies with market conditions:
 **Sample Output**:
 *Market Regime count and time series plot of Crude Oil*
 
-![Market Regime Sample](Images/HurstExponentSample.png)
+![Market Regime Sample](Images/HurstSample.png)
 
 ## Market Profile & Volume Profit Insights
 
