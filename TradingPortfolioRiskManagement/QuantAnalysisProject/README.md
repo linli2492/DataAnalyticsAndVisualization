@@ -13,7 +13,7 @@ By leveraging statistical techniques and financial market models, this framework
 This repository serves as a quantitatively driven research framework, equipping traders with actionable insights for any instrument they wish to trade.
 
 ### Sample Output for Research on Crude Oil
-[View Research Output on nbviewer](https://nbviewer.org/github/linli2492/ProjectsPortfolio/blob/main/TradingPortfolioRiskManagement/QuantAnalysisProject/Speculators%20Daily%20Crude%20Oil%2004022025.ipynb)
+[View Research Output on nbviewer](https://nbviewer.org/github/linli2492/ProjectsPortfolio/blob/main/TradingPortfolioRiskManagement/QuantAnalysisProject/Speculators%20Daily%20Crude%20Oil_040225.ipynb)
 
 ### Modules Used
 [Classes Folder on GitHub](https://github.com/linli2492/ProjectsPortfolio/tree/main/TradingPortfolioRiskManagement/QuantAnalysisProject/Classes)
