@@ -1,49 +1,33 @@
-# Lin Li's Portfolio
+# Data is everywhere...and easily accessible!
 
-**CONTENTS**
-- [Introduction](#introduction)
-- [Repository of Projects](#repository-of-projects)
-- [Disclaimer](#disclaimer)
+But raw numbers and spreadsheets alone don't drive impact. 
 
-## Introduction
+The real value lies in the ability to analyze, interpret, and transform data into actionable insights that fuel smarter decision-making.
 
-Data is **everywhere**—often publicly available and increasingly easy to collect. 
+## This is where I come in!
 
-But its true value lies in how we analyze, dissect and transform it into **actionable insights** that drive smarter decisions.
+I bring this edge to every team and organization I work with.
 
 **Hi, my name is Lin** and welcome to my GitHub!
 
-This space is where I combine my expertise in data analytics, statistics and capital markets with a broader vision: helping financial analysts, businesses and consultants turn raw data into actionable insights that matter.
+I specialise in the following: 
+- **Programming & Algorithm/Software Development** - Python and C# primarily...I also dable in C++ on occassion
+- **Statistical & Quantitative Analysis** - Both Frequentist and Bayesian
+- **Data Visualisation & Storytelling** -  I can create impactful dashboards in Power BI and Tableau
+- **Financial Markets Expertise** - I have worked across equities and FICC, possessing a deep knowledge of those asset classes as well as derivatives. 
 
-In November 2024, I secured funding from a proprietary trading firm after developing trading and analytical algorithms that identified high-probability setups with asymmetric risk profiles.
+**Institutional Experience**
+I have worked at some of the largest financial institutions, including **BlackRock, Franklin Templeton and S&P Global**, where I have applied **quantitative research, financial analysis and algorithmic develoment** to drive impact at an institutional level.
 
-What was my edge?
+I have worked at some of the world's largest financial institutions, including **BlackRock, Franklin Templeton and S&P Global** where I have applied quantitative research, financial analytics and algorithmic development** to drive impact on an institutional level. 
 
-**Analyzing, dissecting and transforming** financial data (mostly price data—it is incredible what you can derive from OHLCV data!) into clear, actionable strategies. 
+Though my expertise lies within Financial Services, the skills I have learnt to turning large, messy datasets into actionable insights to enable data driven decision making can be applied across industries
 
-This blog extends that approach beyond trading. Whether you're:
-- A financial analyst seeking inspiration on how you can 'slice and dice' financial data to build trading/investing strategies and manage risk.  
-- A business sitting on untapped data, looking to uncover insights that drive decision-making.
-- A consulting firm looking for ideas on ways to derive insights from your clients' raw data. 
+Explore my projects: 
 
-You'll find resources, ideas and tools here in my GitHub to **maximize the power of your data!**
+**Finance Related**
 
-## Repository of Projects
-
-For ease, I have binned my projects into the following repositories: 
-
-[**Trading, Investing and Risk Management**](https://github.com/linli2492/ProjectsPortfolio/tree/main/TradingPortfolioRiskManagement) 
-- For traders, fund managers or anyone working on the buy-side.
-- Analysis is done in **Python**.
-- Database management is done via **PostgreSQL**.
-- Actual trading algorithms are built in **C#** or **C++**.
-- Analytical/Optimisation algorithms that require higher performance, speed and low latency will also be built in **C++** for **C#**.  
-
-[**Business Intelligence and Data Analytics**.](https://github.com/linli2492/ProjectsPortfolio/tree/main/BusinessIntelligenceAndDataAnalytics)
-- For businesses or consulting companies looking for ways to analyze data to drive meaningful decisions
-- Analysis is done in **Python**.
-- Database management is done via **PostgreSQL**.
-- Where necessary, **PowerBI** will be used for visualisation.
+**Non-Finance Related**
 
 ## DISCLAIMER
 
